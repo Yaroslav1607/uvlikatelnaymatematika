@@ -2,7 +2,7 @@ import telebot
 from telebot import types  # для указание типов
 import random
 
-bot = telebot.TeleBot("6378681836:AAE7m_eo3RYwVyLZ3h1Pq9xrMdgQ8XHScSA")
+bot = telebot.TeleBot("Token")
 a = ['+', '-']
 sloj = 0
 r = 0
